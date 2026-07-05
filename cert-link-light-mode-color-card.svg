@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Light mode certificate link button color card">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#1b426b" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="#eef4fb"/>
+  <rect x="64" y="54" width="1152" height="612" rx="22" fill="#ffffff" stroke="#ccd8e6" filter="url(#shadow)"/>
+  <text x="96" y="116" fill="#102033" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="34" font-weight="800">浅色模式核心证书链接按钮色卡</text>
+  <text x="96" y="156" fill="#51667f" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="18">建议用于 .cert-links a：高对比青绿色实心按钮，保持商务感，并明显区别于普通文字。</text>
+
+  <g transform="translate(96 210)">
+    <rect width="230" height="170" rx="16" fill="#f8fbff" stroke="#d8e3ef"/>
+    <rect x="24" y="24" width="182" height="72" rx="12" fill="#0f766e"/>
+    <text x="24" y="126" fill="#102033" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="20" font-weight="800">默认底色</text>
+    <text x="24" y="154" fill="#51667f" font-family="Arial, sans-serif" font-size="18">#0F766E</text>
+  </g>
+
+  <g transform="translate(356 210)">
+    <rect width="230" height="170" rx="16" fill="#f8fbff" stroke="#d8e3ef"/>
+    <rect x="24" y="24" width="182" height="72" rx="12" fill="#115e59"/>
+    <text x="24" y="126" fill="#102033" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="20" font-weight="800">悬停底色</text>
+    <text x="24" y="154" fill="#51667f" font-family="Arial, sans-serif" font-size="18">#115E59</text>
+  </g>
+
+  <g transform="translate(616 210)">
+    <rect width="230" height="170" rx="16" fill="#f8fbff" stroke="#d8e3ef"/>
+    <rect x="24" y="24" width="182" height="72" rx="12" fill="#ffffff" stroke="#0b5f63" stroke-width="5"/>
+    <text x="24" y="126" fill="#102033" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="20" font-weight="800">边框颜色</text>
+    <text x="24" y="154" fill="#51667f" font-family="Arial, sans-serif" font-size="18">#0B5F63</text>
+  </g>
+
+  <g transform="translate(876 210)">
+    <rect width="230" height="170" rx="16" fill="#f8fbff" stroke="#d8e3ef"/>
+    <rect x="24" y="24" width="182" height="72" rx="12" fill="#0f766e"/>
+    <text x="115" y="69" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="21" font-weight="800">报名入口</text>
+    <text x="24" y="126" fill="#102033" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="20" font-weight="800">按钮文字</text>
+    <text x="24" y="154" fill="#51667f" font-family="Arial, sans-serif" font-size="18">#FFFFFF</text>
+  </g>
+
+  <g transform="translate(96 440)">
+    <rect width="500" height="138" rx="18" fill="#f8fbff" stroke="#d8e3ef"/>
+    <text x="28" y="42" fill="#102033" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="22" font-weight="800">默认状态示例</text>
+    <rect x="28" y="68" width="146" height="42" rx="21" fill="#0f766e" stroke="#0b5f63"/>
+    <text x="101" y="90" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="16" font-weight="800">报名入口</text>
+    <rect x="192" y="68" width="182" height="42" rx="21" fill="#0f766e" stroke="#0b5f63"/>
+    <text x="283" y="90" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="16" font-weight="800">官方网站</text>
+  </g>
+
+  <g transform="translate(636 440)">
+    <rect width="500" height="138" rx="18" fill="#f8fbff" stroke="#d8e3ef"/>
+    <text x="28" y="42" fill="#102033" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="22" font-weight="800">悬停/聚焦状态示例</text>
+    <rect x="28" y="68" width="146" height="42" rx="21" fill="#115e59" stroke="#0b5f63"/>
+    <rect x="24" y="64" width="154" height="50" rx="25" fill="none" stroke="#0f766e" stroke-opacity="0.28" stroke-width="6"/>
+    <text x="101" y="90" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="16" font-weight="800">报名入口</text>
+    <text x="206" y="94" fill="#51667f" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="16">聚焦环：rgba(15, 118, 110, 0.28)</text>
+  </g>
+
+  <text x="96" y="628" fill="#51667f" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="17">拟修改范围：仅浅色模式下的核心证书链接按钮；深色模式原样保留。</text>
+</svg>
